@@ -12,7 +12,7 @@ This assignment involves creating a new GitHub repository, developing an HTML-on
 -readme.md
 
 ## GitHub Deployment Page
-
+The live site is available here - [text](https://ellamkoch.github.io/HTML-Preformatted-Text/)
 
 ##  What I Learned
 I learned what <pre> does when it comes to code snippets on a web page and how they look versus text listed as a paragraph. I also learned I can put <pre> text within a bulleted list! I now understand more about why this is so important, espeically for code, ASCII art, and other formatted text.
